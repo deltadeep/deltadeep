@@ -1,5 +1,7 @@
 👋 Hello there, I’m @deltadeep!
 
+Head over to my [website](https://gerritweber.dev) for more detail. Feel free to contact me via GitHub or my page.
+
 - I love Emojis 🚀👻
 - My internet alias is deLtadeep 🃏
 - I have small hands 🦖
